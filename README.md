@@ -65,3 +65,6 @@ This project showcases utility of financial APIs in implementing real-time data 
 └── run_dashboard.sh           # Launcher script
 ```
 
+## Note
+
+This is a personal project for educational purposes. Always verify data independently and understand options trading risks before making investment decisions.
