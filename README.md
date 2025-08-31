@@ -1,6 +1,6 @@
 # Volatility Trading Dashboard
 
-A Python application Ictive Brokers API to provide real-time market data analysis through an interactive dashboard.
+A Python application built for analyzing implied voltilty using Interactive Brokers API to provide real-time market data analysis through an interactive dashboard.
 
 ## What It Does
 
@@ -52,9 +52,9 @@ The dashboard connects to IB TWS/Gateway to fetch live options data, calculates 
    - Query IV data for any symbol (default: SPY)
    - Click "Analyze Implied Vol" to see results
 
-## What I Built
+## Working
 
-This project demonstrates my ability to work with financial APIs, implement real-time data processing pipelines, and create interactive data visualization tools. The dashboard successfully processes live market data streams while performing complex statistical computations for volatility analysis. I developed the regime detection algorithms, statistical models for forward volatility prediction, and the real-time visualization system that updates dynamically as new data arrives.
+This project showcases utility of financial APIs in implementing real-time data processing pipelines, and creating interactive data visualization tools. The dashboard successfully processes live market data streams while performing complex statistical computations for volatility analysis. The project includes regime detection algorithms, statistical models for forward volatility prediction, and the real-time visualization system that updates dynamically as new data arrives.
 
 ## File Structure
 
@@ -65,6 +65,3 @@ This project demonstrates my ability to work with financial APIs, implement real
 └── run_dashboard.sh           # Launcher script
 ```
 
-## Note
-
-This is a personal project for educational purposes. Always verify data independently and understand options trading risks before making investment decisions. 
