@@ -1,6 +1,8 @@
 # Volatility Trading Dashboard
 
-A Python application Ictive Brokers API to provide real-time market data analysis through an interactive dashboard.
+A Python application built for analyzing implied voltilty using Interactive Brokers API to provide real-time market data analysis through an interactive dashboard.
+
+Resources
 
 ## What It Does
 
